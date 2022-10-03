@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CameraGallery</string>
+    <string name="uploaded_pictures">U p l o a d e d \t\t p i c t u r e s</string>
+    <string name="show">SHOW</string>
+</resources>
